@@ -12,7 +12,7 @@
          "institutionId":"ASIA DEMO",
          "masterAccount":"431522476"
       },
-      "enableDemoTab":false,
+      "enableDemoTab":true,
       "enableAppModeSwitch":true,
       "enableFacelift":true,
       "isHybridAuthType":false,
